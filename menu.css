@@ -11,13 +11,21 @@ body{
     text-decoration: none;
 }
 .inline-menu{
-
+    display: inline;
+    background-color:#24f544;
+    color: white;
+    padding:5px;
+    margin: 5px;
+    text-decoration: none;
 }
 .inline-block-menu a{
     display:inline-block;
-    background-color:#2ecc71;
+    background-color:#9b59b6;
     color:white;
-    padding:10px;
+    height: 50px;
+    width: 120px;
+    padding:10px 15px;
     margin:5px;
     text-decoration: none;
 }
+.clear-example
