@@ -43,3 +43,13 @@ body{
     margin-top: 20px;
     border: 1px solid #ccc;
 }
+.inline-block-menu2 a{
+    display:inline-block;
+    background-color:#c5763e;
+    color:white;
+    height: 50px;
+    width: 120px;
+    padding:10px 15px;
+    margin:5px;
+    text-decoration: none;
+}
