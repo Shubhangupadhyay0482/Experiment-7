@@ -29,7 +29,7 @@ body{
     text-decoration: none;
 }
 .float-menu a{
-    float:right;
+    float:left;
     background-color: #24f544;
     color: white;
     padding: 10px 15px;
